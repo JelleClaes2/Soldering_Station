@@ -184,6 +184,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNTHONUA
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SoldeerBout\Design Rule Check - soldeerstation.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=sheetof
 Value==Sheet+'/'+SheetTotal
