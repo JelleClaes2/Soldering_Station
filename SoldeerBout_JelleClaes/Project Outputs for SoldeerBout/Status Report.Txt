@@ -1,12 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [soldeerstation.PcbDoc]
-   Generated File[soldeerstation.TXT]
-   Generated File[soldeerstation.LDP]
-   Generated File[soldeerstation.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 23:26:48 On 23/05/2023
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [soldeerstation.PcbDoc]
+   Generated File[soldeerstation.step]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:42:36 On 2/05/2023
+Finished Output Generation At 23:26:53 On 23/05/2023

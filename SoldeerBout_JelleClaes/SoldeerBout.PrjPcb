@@ -201,6 +201,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document10]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for SoldeerBout\Design Rule Check - soldeerstation.html
 DItemRevisionGUID=
@@ -254,6 +271,10 @@ DocumentPath=Project Outputs for SoldeerBout\Gerber\soldeerstation.REP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
+DocumentPath=Project Outputs for SoldeerBout\ExportSTEP\soldeerstation.step
+DItemRevisionGUID=
+
+[GeneratedDocument15]
 DocumentPath=Project Outputs for SoldeerBout\NC Drill\soldeerstation.TXT
 DItemRevisionGUID=
 

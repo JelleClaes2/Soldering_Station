@@ -1,13 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [display.PcbDoc]
-   Generated File[display-RoundHoles.TXT]
-   Generated File[display-SlotHoles.TXT]
-   Generated File[display.LDP]
-   Generated File[display.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 0:05:56 On 24/05/2023
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [display.PcbDoc]
+   Generated File[display.step]
 
 
-Files Generated   : 4
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 15:22:29 On 28/04/2023
+Finished Output Generation At 0:06:00 On 24/05/2023
